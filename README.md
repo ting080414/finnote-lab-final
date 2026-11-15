@@ -15,7 +15,7 @@ templates/article.md             新文章範本
 docs/index.html                  GitHub Pages 首頁
 docs/assets/css/styles.css       全站樣式
 docs/assets/js/app.js            搜尋、分類、路由、Markdown 顯示
-docs/content/catalog.json       文章索引
+docs/content/catalog.json        文章索引
 docs/content/articles/*.md       四篇研究概念文章
 ```
 
