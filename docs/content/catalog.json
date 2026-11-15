@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "endogeneity",
+    "title": "內生性問題是什麼？",
+    "category": "因果推論",
+    "summary": "從股票回購與企業投資的關係，理解相關性、反向因果與遺漏變數偏誤。",
+    "tags": ["Endogeneity", "OLS", "因果關係"],
+    "updated": "2026-11-15",
+    "minutes": 6,
+    "file": "content/articles/endogeneity.md"
+  },
+  {
+    "slug": "fuzzy-rdd",
+    "title": "Fuzzy RDD 如何識別因果效果？",
+    "category": "因果推論",
+    "summary": "比較 Sharp 與 Fuzzy RDD 的差異，理解門檻附近的處理機率跳躍。",
+    "tags": ["Fuzzy RDD", "IV", "First Stage"],
+    "updated": "2026-11-15",
+    "minutes": 7,
+    "file": "content/articles/fuzzy-rdd.md"
+  },
+  {
+    "slug": "eps-surprise",
+    "title": "EPS Surprise 與盈餘門檻",
+    "category": "財務指標",
+    "summary": "認識分析師預期、實際每股盈餘與盈餘驚喜，為門檻研究打底。",
+    "tags": ["EPS", "Analyst Forecast", "Earnings"],
+    "updated": "2026-11-15",
+    "minutes": 5,
+    "file": "content/articles/eps-surprise.md"
+  },
+  {
+    "slug": "share-repurchases",
+    "title": "股票回購與企業投資",
+    "category": "公司理財",
+    "summary": "股票回購為什麼可能影響資本支出、聘僱與研發？先看機制再談識別。",
+    "tags": ["Repurchase", "Capex", "R&D"],
+    "updated": "2026-11-15",
+    "minutes": 6,
+    "file": "content/articles/share-repurchases.md"
+  }
+]
